@@ -1,6 +1,14 @@
-## SOBRE MÍ
-## PORTAFOLIO
-## CONTACTO
+## Sobre mí 
+Soy UX designer, enfocada en dar soluciones con base en las necesidades y expectativas del cliente y el usuario , aficionada del autoaprendizaje y el trabajo en equipo.  El diseño de estrategias de contenido, la ideación y el research son mis principales habilidades técnicas.
+
+## Portafolio
+https://github.com/AnettTruMa/Travelus
+https://github.com/AnettTruMa/Save_The_Children
+https://github.com/AnettTruMa/undergroundArts
+
+
+## Contacto
+anettp.trujillo@gmail.com
 
 
 
